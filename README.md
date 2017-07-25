@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html>
     <head>
-       <meta charset="UTF-8">
-       <title>hello</title>
+       <title></title>
     </head>
     <body>
     Hello warld
